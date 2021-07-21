@@ -1,6 +1,6 @@
 #include <cstdio>
 int main()
 {
-    printf("Lzx is DSB");
+    printf("Zjz is DSB");
     return 0;
 }
